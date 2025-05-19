@@ -34,7 +34,7 @@ Hi, I’m Laura — a rising junior majoring in **Computer Science** with a **Da
 ```ts
 Languages:   JavaScript 💛 | Python 🐍 | Java ☕  
 Frameworks:  React ⚛️ | Node.js 🌿 | Express  
-Databases:   PostgreSQL 🌀 | MongoDB 🍃  
+Databases:   PostgreSQL 🌀 
 Tools:       Git | GitHub | Figma | VS Code
 
 ## 🌐 Let’s Connect
