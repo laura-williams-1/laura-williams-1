@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">✨ Hey, I’m Laura — building tech with soul. ✨</h1>
 
-<!--
-**laura-williams-1/laura-williams-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-💛-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-💙-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-🐍-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-☕-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-🌀-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💅 Who I Am
+
+Hi, I’m Laura — a rising junior majoring in **Computer Science** with a **Data Science** minor based in NYC. I’m passionate about writing clean code with *cute vibes* and bringing community-centered tech to life.  
+
+- 🌸 Pilates baddie + caffeine connoisseur  
+- 🧠 CodePath scholar | 2025 SWE Intern  
+- 🎨 Currently building **Pilates Hub** – a social wellness web app   
+
+---
+
+## 🚀 Currently Manifesting
+
+- 🧠 Leveling up in **Data Structures & Algorithms**
+- 💼 Prepping for **Summer 2026 SWE internships**
+- 💻 Deepening my skills in **React.js** & **Python automation**
+- 🌍 Building tech for **community, self-care, and real-world impact**
+
+---
+
+## 💻 Tech Stack
+
+```ts
+Languages:   JavaScript 💛 | Python 🐍 | Java ☕  
+Frameworks:  React ⚛️ | Node.js 🌿 | Express  
+Databases:   PostgreSQL 🌀 | MongoDB 🍃  
+Tools:       Git | GitHub | Figma | VS Code
+
+## 🌐 Let’s Connect
+
+Got a project, internship, or collab in mind? Hit me up!
+
+- 📬 [LinkedIn](https://www.linkedin.com/in/laura-williams-622949162/)
+- 🌐 Portfolio site coming soon 👀
+
