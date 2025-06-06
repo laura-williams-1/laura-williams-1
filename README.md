@@ -14,7 +14,7 @@
 Hi, I’m Laura — a rising junior majoring in **Computer Science** with a **Data Science** minor based in NYC. I’m passionate about writing clean code with *cute vibes* and bringing community-centered tech to life.  
 
 - 🌸 Pilates baddie + caffeine connoisseur  
-- 🧠 CodePath scholar | Summer 2025 SWE Intern @ AskNinaAI
+- 🧠 CodePath scholar | Summer 2025 SWE Intern @ AskNinaAI | SEO Scholar
 - 🎨 Currently building **Pilates Hub** – a social wellness web app   
 
 ---
